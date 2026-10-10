@@ -6,7 +6,7 @@ authors:
   - family-names: Stockhammer
     given-names: Johannes
     orcid: "https://orcid.org/0009-0008-4263-5369"
-repository-code: "https://github.com/josto-me/shared-socket-cooker-timer"
+repository-code: "https://github.com/jstockhammer/shared-socket-cooker-timer"
 url: "https://josto.me"
 doi: "10.5281/zenodo.22991342"
 version: "1.0.0"
